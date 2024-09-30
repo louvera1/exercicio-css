@@ -1,0 +1,70 @@
+/* Estilos Globais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  section {
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+  }
+  
+  /* Seção Entretenimento */
+  #entretenimento {
+    background-color: #ffcccb; /* Fundo vermelho claro */
+    color: #333;
+    text-align: center;
+  }
+  
+  #entretenimento h2 {
+    color: #b22222; /* Cor do título da seção de entretenimento */
+    text-align: center;
+  }
+  #entretenimento2 {
+    background-color: #ffcccb; /* Fundo vermelho claro */
+    color: #333;
+    text-align: center;
+  }
+  text-align: center;
+  #entretenimento h3 {
+    color: #b22222; /* Cor do título da seção de entretenimento */
+  }
+  
+  /* Seção Tecnologia */
+  #tecnologia {
+    background-color: #cceeff; /* Fundo azul claro */
+    color: #000;
+    text-align: center;
+  }
+  
+  #tecnologia h2 {
+    color: #1e90ff; /* Cor do título da seção de tecnologia */
+    text-align: center;
+  }
+  
+  /* Estilos dos artigos */
+  article {
+    margin-bottom: 15px;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  article h3 {
+    margin: 0;
+  }
+  
+  article p {
+    margin-top: 5px;
+    color: #555;
+  }
+  
